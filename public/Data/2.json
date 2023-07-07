@@ -1,0 +1,9 @@
+{
+    "ID"            :   2,
+    "Title"         :   "Adipurush",
+    "Discription"   :   "Adipurush is an upcoming Indian epic mythological film based on the Hindu epic Ramayana. The film is written and directed by Om Raut and produced by T-Series and Retrophiles.",
+    "Cast"          :   ["Prabhas", "Kriti Sanon", "Saif Ali Khan", "Sunny Singh", "Devdatta Nage"],
+    "Genre"         :   "Action",
+    "url"           :   "https://www.youtube.com/embed/scNmYjoR-qM",
+    "img"           :   "/Images/Adipurush.jpeg"    
+}

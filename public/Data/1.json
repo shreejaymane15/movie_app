@@ -1,0 +1,9 @@
+{
+    "ID"            :   1,
+    "Title"         :   "Bholaa",
+    "Discription"   :   "After 10 years of imprisonment, Bholaa is finally going home to meet his young daughter. However, his journey is not so simple as he soon faces a pathway full of crazy obstacles, with death lurking around every corner.",
+    "Cast"          :   ["Ajay Devgan", "Raai Laxmi", "Amala Paul", "Tabu", "Abhishek Bacchan"],
+    "Genre"         :   "Thriller",
+    "url"           :   "https://www.youtube.com/embed/K-EMszLvRIQ",
+    "img"           :   "/Images/Bholla.jpeg"    
+}
